@@ -1,0 +1,3 @@
+# Megumin
+
+This is only used for exercising...
