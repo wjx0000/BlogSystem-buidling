@@ -1,3 +1,2 @@
-# Megumin
+java 博客系统
 
-This is only used for exercising...
